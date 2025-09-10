@@ -262,10 +262,10 @@ goal=input()
 aStarAlgo(start, goal)
 ```
 
+
+<H3>OUTPUT</H3>
+<img width="577" height="391" alt="image" src="https://github.com/user-attachments/assets/8133890b-8e81-48e9-ba21-b611e13cb3d5" />
 <hr>
 <h2>Sample Output</h2>
 <hr>
-<H3>OUTPUT</H3>
-<img width="577" height="391" alt="image" src="https://github.com/user-attachments/assets/8133890b-8e81-48e9-ba21-b611e13cb3d5" />
-
 Path found: ['A', 'E', 'D', 'G']
