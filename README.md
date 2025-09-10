@@ -269,3 +269,8 @@ aStarAlgo(start, goal)
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+<H3>RESULT:</H3>
+<P>
+    Implementing A * Search algorithm for a Graph using Python 3. is executed successfully.
+</P>
